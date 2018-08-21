@@ -1,2 +1,2 @@
-"Full name: Eric Choi" 
-"Department: Computer Science"
+"Full name: Testing Merge conflicts" 
+"Department: English"
